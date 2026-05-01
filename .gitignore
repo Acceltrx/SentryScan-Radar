@@ -1,0 +1,41 @@
+# --- Arduino ---
+# Ignore compiled binaries and object files
+*.hex
+*.elf
+*.o
+*.d
+*.a
+*.la
+*.lo
+*.slo
+*.so
+*.out
+
+# Ignore the build folder created by some IDEs
+build/
+bin/
+
+# --- Processing ---
+# Ignore the temporary build folder
+/applet/
+/out/
+/build/
+
+# Ignore exported applications (they are too large for Git)
+/application.windows32/
+/application.windows64/
+/application.linux32/
+/application.linux64/
+/application.macosx/
+
+# --- Operating System Junk ---
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+
+# --- IDE Settings ---
+.vscode/
+.idea/
+*.swp
