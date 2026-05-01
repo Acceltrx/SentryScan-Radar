@@ -1,4 +1,4 @@
-# Sentry-Scan: Autonomous Tracking Radar System
+# 🤖 Sentry-Scan: Autonomous Tracking Radar System
 
 An integrated hardware-software solution featuring an autonomous radar system that detects, tracks, and visualizes objects in real-time. This project combines embedded C++ (Arduino) with Java-based visualization (Processing) to create a functional "Sentry Mode" radar.
 
@@ -28,7 +28,8 @@ Based on the system design, the following components were utilized:
 ---
 
 ## 📐 Pin Mapping + Demo
-insert image + video demo link
+<img width="1193" height="634" alt="image" src="https://github.com/user-attachments/assets/5db5da98-8c23-4b02-9da2-5d17d5bfd168" />
+Demonstration: https://www.youtube.com/watch?v=cklZS6nu5zU
 
 ---
 
